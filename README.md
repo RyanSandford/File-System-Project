@@ -16,6 +16,7 @@ The class file_manager.cpp contains:
 - The block size of the file
 - A vector of children for the file (if it is a directory)
 - An error number if an operation is unsuccesful
+
 as attributes as well as the following member functions:
 - Dump
 - Rename
