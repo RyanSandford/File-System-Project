@@ -1,7 +1,8 @@
 # stripped-linux-commands
-This repository contains the content of Cs 3307 (Object Orientated Design) Assignment 1,
-which required the implementation of several stripped Linux commands as well as a class containing
-all relevant information about a file. These files are written on C++ for the Raspberry Pi Desktop.
+This repository contains several files which implement a file system. This goal of this project was
+to become familiar with C++ and the Raspberry Pi Desktop. The class file_manager implements the 
+functionality and data stored in a file. Additionally several files which behave as stripped linux 
+commands are included to manipulate file_manager objects.
 
 The class file_manager.cpp contains:
 - The name of the file
