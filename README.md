@@ -11,7 +11,7 @@ The class file_manager.cpp contains:
 - The owner of the file
 - The group of the file
 - The permissions for the file
-- The Acces time of the file
+- The access time of the file
 - The modification time of the file
 - The status change time of the file
 - The block size of the file
