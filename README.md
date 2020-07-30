@@ -1,8 +1,8 @@
 # File System Project
-This repository contains several files which implement a file system. This goal of this project was
-to become familiar with C++ and the Raspberry Pi Desktop. The class file_manager implements the 
+This repository implements a working file system as well as several command line commands. The class file_manager implements the 
 functionality of a file/directory. Additionally several files which behave as stripped linux 
-commands are included to manipulate file_manager objects.
+commands are included to manipulate file_manager objects. The goal of this project was
+to become familiar with C++ and the Raspberry Pi Desktop.
 
 The class file_manager.cpp contains:
 - The name of the file
