@@ -24,6 +24,7 @@ as attributes as well as the following member functions:
 - Remove
 - Compare 
 - Expand
+
 to assist with the implementation of the stripped linux-commands.
 
 The files mymv.cpp, mycp.cpp, myls.cpp, mycat.cpp, myrm.cpp, mydiff.cpp, mystat.cpp work as stripped
