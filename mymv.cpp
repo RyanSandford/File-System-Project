@@ -1,5 +1,5 @@
 /*
-Ryan Sandford, CS3307 Assignment 1, October 2 2019
+Ryan Sandford, October 2 2019
 mymv acts as mv, takes two file names as parameters and renames/moves the source file to the destination
 */
 
