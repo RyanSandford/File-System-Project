@@ -1,5 +1,5 @@
 /*
-Ryan Sandford, CS3307 Assignment 1, October 2 2019
+Ryan Sandford, October 2 2019
 myrm acts as the rm command in linux, removes a file given a file name passed as an arguement
 */
 
