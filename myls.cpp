@@ -1,5 +1,5 @@
 /*
-Ryan Sandford, CS3307 Assignment 1, October 2 2019
+Ryan Sandford, October 2 2019
 myls acts as the ls command displaying all files in a directory passed as a parameter
 */
 
