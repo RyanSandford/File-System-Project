@@ -1,5 +1,5 @@
 /*
-Ryan Sandford, CS3307 Assignment 1, October 2 2019
+Ryan Sandford, October 2 2019
 acts as the stat command does, prints information about a given file_manager object passed as a parameter
 */
 
