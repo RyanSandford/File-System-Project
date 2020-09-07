@@ -1,5 +1,5 @@
 /*
-Ryan Sandford, CS3307 Assignment 1, October 2 2019
+Ryan Sandford, October 2 2019
 mycat recreates the cat command standard in linux, prints the content of one or more files passed as arguements to standard output
 */
 #include "file_manager.h"
