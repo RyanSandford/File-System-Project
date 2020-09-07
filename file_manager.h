@@ -1,5 +1,5 @@
 /*
-Ryan sandford, CS3307 Assignment1, October 2 2019,
+Ryan sandford, October 2 2019,
 Header file for file manager class
 */
 #ifndef guard
