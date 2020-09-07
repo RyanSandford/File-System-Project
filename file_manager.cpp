@@ -1,5 +1,5 @@
 /*
-Ryan Sandford, CS3307 Assignment 1,
+Ryan Sandford,
 October 2, 2019
 This file initializes a file manager class, defining a constuctor, destructor,
  member functions, and various getter and setter methods
