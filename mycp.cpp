@@ -1,5 +1,5 @@
 /*
-Ryan Sandford, CS3307 Assignment 1, October 2 2019
+Ryan Sandford, October 2 2019
 mycp acts as the cp command standard to linux, copies a source file to a destination file
 */
 
